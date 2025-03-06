@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: pvm5ht5ua-go-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/pvm5ht5ua-go-gitops
